@@ -1,0 +1,271 @@
+,Team Name,Wins,Loss,Year
+0,Utah  Jazz,25,57,2013
+1,Los Angeles  Clippers,57,25,2013
+2,Golden State  Warriors,51,31,2013
+3,Phoenix  Suns,48,34,2013
+4,Sacramento  Kings,28,54,2013
+5,Los Angeles  Lakers,27,55,2013
+6,San Antonio  Spurs,62,20,2013
+7,Houston  Rockets,54,28,2013
+8,Memphis  Grizzlies,50,32,2013
+9,Dallas  Mavericks,49,33,2013
+10,New Orleans  Pelicans,34,48,2013
+11,Oklahoma City  Thunder,59,23,2013
+12,Portland  Trail Blazers,54,28,2013
+13,Philadelphia  76ers,19,63,2013
+14,Minnesota  Timberwolves,40,42,2013
+15,Boston  Celtics,25,57,2013
+16,Miami  Heat,54,28,2013
+17,Washington  Wizards,44,38,2013
+18,Charlotte  Hornets,43,39,2013
+19,Atlanta  Hawks,38,44,2013
+20,Orlando  Magic,23,59,2013
+21,Indiana  Pacers,56,26,2013
+22,Chicago  Bulls,48,34,2013
+23,Cleveland  Cavaliers,33,49,2013
+24,Detroit  Pistons,29,53,2013
+25,Milwaukee  Bucks,15,67,2013
+26,Toronto  Raptors,48,34,2013
+27,Denver  Nuggets,36,46,2013
+28,Brooklyn  Nets,44,38,2013
+29,New York  Knicks,37,45,2013
+30,Atlanta  Hawks,60,22,2014
+31,Los Angeles  Lakers,21,61,2014
+32,Sacramento  Kings,29,53,2014
+33,Phoenix  Suns,39,43,2014
+34,Los Angeles  Clippers,56,26,2014
+35,Golden State  Warriors,67,15,2014
+36,Minnesota  Timberwolves,16,66,2014
+37,Denver  Nuggets,30,52,2014
+38,Utah  Jazz,38,44,2014
+39,Portland  Trail Blazers,51,31,2014
+40,New Orleans  Pelicans,45,37,2014
+41,Dallas  Mavericks,50,32,2014
+42,Memphis  Grizzlies,55,27,2014
+43,San Antonio  Spurs,55,27,2014
+44,Houston  Rockets,56,26,2014
+45,Oklahoma City  Thunder,45,37,2014
+46,Indiana  Pacers,38,44,2014
+47,Detroit  Pistons,32,50,2014
+48,Miami  Heat,37,45,2014
+49,Charlotte  Hornets,33,49,2014
+50,Orlando  Magic,25,57,2014
+51,Toronto  Raptors,49,33,2014
+52,Boston  Celtics,40,42,2014
+53,Washington  Wizards,46,36,2014
+54,Philadelphia  76ers,18,64,2014
+55,New York  Knicks,17,65,2014
+56,Cleveland  Cavaliers,53,29,2014
+57,Chicago  Bulls,50,32,2014
+58,Milwaukee  Bucks,41,41,2014
+59,Brooklyn  Nets,38,44,2014
+60,Charlotte  Hornets,48,34,2015
+61,Atlanta  Hawks,48,34,2015
+62,Philadelphia  76ers,10,72,2015
+63,Brooklyn  Nets,21,61,2015
+64,New York  Knicks,32,50,2015
+65,Boston  Celtics,48,34,2015
+66,Chicago  Bulls,42,40,2015
+67,Milwaukee  Bucks,33,49,2015
+68,Detroit  Pistons,44,38,2015
+69,Indiana  Pacers,45,37,2015
+70,New Orleans  Pelicans,30,52,2015
+71,Miami  Heat,48,34,2015
+72,Toronto  Raptors,56,26,2015
+73,Washington  Wizards,41,41,2015
+74,Cleveland  Cavaliers,57,25,2015
+75,Golden State  Warriors,73,9,2015
+76,Houston  Rockets,41,41,2015
+77,Dallas  Mavericks,42,40,2015
+78,Memphis  Grizzlies,42,40,2015
+79,San Antonio  Spurs,67,15,2015
+80,Denver  Nuggets,33,49,2015
+81,Utah  Jazz,40,42,2015
+82,Minnesota  Timberwolves,29,53,2015
+83,Oklahoma City  Thunder,55,27,2015
+84,Los Angeles  Lakers,17,65,2015
+85,Phoenix  Suns,23,59,2015
+86,Sacramento  Kings,33,49,2015
+87,Los Angeles  Clippers,53,29,2015
+88,Portland  Trail Blazers,44,38,2015
+89,Orlando  Magic,35,47,2015
+90,Chicago  Bulls,41,41,2016
+91,New York  Knicks,31,51,2016
+92,Toronto  Raptors,51,31,2016
+93,Boston  Celtics,53,29,2016
+94,Detroit  Pistons,37,45,2016
+95,Washington  Wizards,49,33,2016
+96,Cleveland  Cavaliers,51,31,2016
+97,Orlando  Magic,29,53,2016
+98,Charlotte  Hornets,36,46,2016
+99,Miami  Heat,41,41,2016
+100,Atlanta  Hawks,43,39,2016
+101,Philadelphia  76ers,28,54,2016
+102,Indiana  Pacers,42,40,2016
+103,Brooklyn  Nets,20,62,2016
+104,Milwaukee  Bucks,42,40,2016
+105,LA  Clippers,51,31,2016
+106,Golden State  Warriors,67,15,2016
+107,Denver  Nuggets,40,42,2016
+108,Portland  Trail Blazers,41,41,2016
+109,Oklahoma City  Thunder,47,35,2016
+110,Utah  Jazz,51,31,2016
+111,Dallas  Mavericks,33,49,2016
+112,Minnesota  Timberwolves,31,51,2016
+113,Memphis  Grizzlies,43,39,2016
+114,Houston  Rockets,55,27,2016
+115,San Antonio  Spurs,61,21,2016
+116,Phoenix  Suns,24,58,2016
+117,Los Angeles  Lakers,26,56,2016
+118,New Orleans  Pelicans,34,48,2016
+119,Sacramento  Kings,32,50,2016
+120,Los Angeles  Lakers,35,47,2017
+121,Sacramento  Kings,27,55,2017
+122,Phoenix  Suns,21,61,2017
+123,Houston  Rockets,65,17,2017
+124,New Orleans  Pelicans,48,34,2017
+125,Memphis  Grizzlies,22,60,2017
+126,Dallas  Mavericks,24,58,2017
+127,Portland  Trail Blazers,49,33,2017
+128,Utah  Jazz,48,34,2017
+129,Oklahoma City  Thunder,48,34,2017
+130,LA  Clippers,42,40,2017
+131,San Antonio  Spurs,47,35,2017
+132,Golden State  Warriors,58,24,2017
+133,New York  Knicks,29,53,2017
+134,Detroit  Pistons,39,43,2017
+135,Milwaukee  Bucks,44,38,2017
+136,Indiana  Pacers,48,34,2017
+137,Cleveland  Cavaliers,50,32,2017
+138,Brooklyn  Nets,28,54,2017
+139,Philadelphia  76ers,52,30,2017
+140,Boston  Celtics,55,27,2017
+141,Toronto  Raptors,59,23,2017
+142,Atlanta  Hawks,24,58,2017
+143,Orlando  Magic,25,57,2017
+144,Charlotte  Hornets,36,46,2017
+145,Washington  Wizards,43,39,2017
+146,Chicago  Bulls,27,55,2017
+147,Miami  Heat,44,38,2017
+148,Denver  Nuggets,46,36,2017
+149,Minnesota  Timberwolves,47,35,2017
+150,Sacramento  Kings,39,43,2018
+151,Los Angeles  Lakers,37,45,2018
+152,Phoenix  Suns,19,63,2018
+153,Houston  Rockets,53,29,2018
+154,San Antonio  Spurs,48,34,2018
+155,New Orleans  Pelicans,33,49,2018
+156,Dallas  Mavericks,33,49,2018
+157,Memphis  Grizzlies,33,49,2018
+158,Denver  Nuggets,54,28,2018
+159,Portland  Trail Blazers,53,29,2018
+160,Utah  Jazz,50,32,2018
+161,Oklahoma City  Thunder,49,33,2018
+162,Minnesota  Timberwolves,36,46,2018
+163,Orlando  Magic,42,40,2018
+164,Miami  Heat,39,43,2018
+165,Charlotte  Hornets,39,43,2018
+166,Washington  Wizards,32,50,2018
+167,Atlanta  Hawks,29,53,2018
+168,Milwaukee  Bucks,60,22,2018
+169,Indiana  Pacers,48,34,2018
+170,Detroit  Pistons,41,41,2018
+171,Chicago  Bulls,22,60,2018
+172,Cleveland  Cavaliers,19,63,2018
+173,Toronto  Raptors,58,24,2018
+174,Philadelphia  76ers,51,31,2018
+175,Boston  Celtics,49,33,2018
+176,Brooklyn  Nets,42,40,2018
+177,LA  Clippers,48,34,2018
+178,New York  Knicks,17,65,2018
+179,Golden State  Warriors,57,25,2018
+180,Chicago  Bulls,22,43,2019
+181,Houston  Rockets,44,28,2019
+182,Dallas  Mavericks,43,32,2019
+183,Memphis  Grizzlies,34,39,2019
+184,San Antonio  Spurs,32,39,2019
+185,New Orleans  Pelicans,30,42,2019
+186,Los Angeles  Lakers,52,19,2019
+187,LA  Clippers,49,23,2019
+188,Phoenix  Suns,34,39,2019
+189,Sacramento  Kings,31,41,2019
+190,Golden State  Warriors,15,50,2019
+191,Denver  Nuggets,46,27,2019
+192,Utah  Jazz,44,28,2019
+193,Oklahoma City  Thunder,44,28,2019
+194,Portland  Trail Blazers,35,39,2019
+195,Minnesota  Timberwolves,19,45,2019
+196,Miami  Heat,44,29,2019
+197,Orlando  Magic,33,40,2019
+198,Charlotte  Hornets,23,42,2019
+199,Washington  Wizards,25,47,2019
+200,Atlanta  Hawks,20,47,2019
+201,Toronto  Raptors,53,19,2019
+202,Boston  Celtics,48,24,2019
+203,Philadelphia  76ers,43,30,2019
+204,Brooklyn  Nets,35,37,2019
+205,New York  Knicks,21,45,2019
+206,Milwaukee  Bucks,56,17,2019
+207,Indiana  Pacers,45,28,2019
+208,Detroit  Pistons,20,46,2019
+209,Cleveland  Cavaliers,19,46,2019
+210,Toronto  Raptors,27,45,2020
+211,Denver  Nuggets,47,25,2020
+212,Minnesota  Timberwolves,23,49,2020
+213,Oklahoma City  Thunder,22,50,2020
+214,Dallas  Mavericks,42,30,2020
+215,Memphis  Grizzlies,38,34,2020
+216,San Antonio  Spurs,33,39,2020
+217,New Orleans  Pelicans,31,41,2020
+218,Houston  Rockets,17,55,2020
+219,Phoenix  Suns,51,21,2020
+220,LA  Clippers,47,25,2020
+221,Los Angeles  Lakers,42,30,2020
+222,Golden State  Warriors,39,33,2020
+223,Sacramento  Kings,31,41,2020
+224,Portland  Trail Blazers,42,30,2020
+225,Milwaukee  Bucks,46,26,2020
+226,Chicago  Bulls,31,41,2020
+227,Cleveland  Cavaliers,22,50,2020
+228,Detroit  Pistons,20,52,2020
+229,Atlanta  Hawks,41,31,2020
+230,Miami  Heat,40,32,2020
+231,Washington  Wizards,34,38,2020
+232,Charlotte  Hornets,33,39,2020
+233,Orlando  Magic,21,51,2020
+234,Philadelphia  76ers,49,23,2020
+235,Brooklyn  Nets,48,24,2020
+236,New York  Knicks,41,31,2020
+237,Boston  Celtics,36,36,2020
+238,Indiana  Pacers,34,38,2020
+239,Utah  Jazz,52,20,2020
+240,Cleveland  Cavaliers,44,38,2021
+241,Memphis  Grizzlies,56,26,2021
+242,Chicago  Bulls,46,36,2021
+243,Milwaukee  Bucks,51,31,2021
+244,New York  Knicks,37,45,2021
+245,Brooklyn  Nets,44,38,2021
+246,Toronto  Raptors,48,34,2021
+247,Philadelphia  76ers,51,31,2021
+248,Boston  Celtics,51,31,2021
+249,Orlando  Magic,22,60,2021
+250,Washington  Wizards,35,47,2021
+251,Charlotte  Hornets,43,39,2021
+252,Atlanta  Hawks,43,39,2021
+253,Miami  Heat,53,29,2021
+254,Indiana  Pacers,25,57,2021
+255,Oklahoma City  Thunder,24,58,2021
+256,Minnesota  Timberwolves,46,36,2021
+257,Denver  Nuggets,48,34,2021
+258,Utah  Jazz,49,33,2021
+259,Sacramento  Kings,30,52,2021
+260,Los Angeles  Lakers,33,49,2021
+261,LA  Clippers,42,40,2021
+262,Golden State  Warriors,53,29,2021
+263,Phoenix  Suns,64,18,2021
+264,Houston  Rockets,20,62,2021
+265,San Antonio  Spurs,34,48,2021
+266,New Orleans  Pelicans,36,46,2021
+267,Dallas  Mavericks,52,30,2021
+268,Portland  Trail Blazers,27,55,2021
+269,Detroit  Pistons,23,59,2021
