@@ -107,7 +107,7 @@ The approach for creating the dataset for the players is the same as the approac
 
 ![Picture7](https://user-images.githubusercontent.com/49813115/205524732-b5d16803-b52a-480d-be28-bdbaeb703915.png)
 
-# Challeneges faced by the team and the API limitations
+# Challenges faced by the team and the API limitations
 
 - Since sport radar only allows 1000 API calls per month, we decided to use multiple keys for different processes in the dataset creation. To avoid data loss, we ran functions year by year and saved the data before merging it.
 -	We were unable to collect financial data for teams due to limited online resources and a lack of APIs. Web scraping was also discovered to be challenging.
