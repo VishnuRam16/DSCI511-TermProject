@@ -82,6 +82,11 @@ For the shooter, a blocked shot is counted as a missed field goal attempt. Also,
 The data for team wins and losses is stored in another branch and thus cannot be retrieved using the same function and URL. As a result, it is best to write a new script to retrieve data for all of the teams. 
 We repeat the process, creating a function that takes year, teamid, and key as parameters and manipulates the URL for each iteration of the year and teamid, resulting in eight datasets, one for each year. Finally, the datasets are merged.
 
+<img width="403" alt="Picture3" src="https://user-images.githubusercontent.com/49813115/205524576-b5c6fecf-d358-4cd2-baf5-2bb41e55073a.png">
+
+
+<img width="403" alt="Picture4" src="https://user-images.githubusercontent.com/49813115/205524586-f28639ff-4219-42bc-9c3e-4757a72a367b.png">
+
 
 
 
