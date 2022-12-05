@@ -88,5 +88,42 @@ We repeat the process, creating a function that takes year, teamid, and key as p
 <img width="403" alt="Picture4" src="https://user-images.githubusercontent.com/49813115/205524586-f28639ff-4219-42bc-9c3e-4757a72a367b.png">
 
 
+<b>Final Teams Dataset:</b>
+
+Our next task is to format and clean the dataset before merging the teams_wins_by_year.csv and team_yearly_stats_final.csv files. We checked to see if the team names matched in both datasets; only LA Clippers did not match because the dataset stored it as Los Angeles Clippers prior to 2017, so we renamed rows where it did not match.
+
+We add two new columns to the table: Win Percentage and Loss Percentage. The Win Percentage is calculated by dividing the number of games won by the total number of games played and multiplying the result by 100. Subtracting 100 from the Win Percentage yields the Loss Percentage. Including these two attributes enriches the dataset and aids in predictive analytics.
+
+Finally, we merge both the datasets to form final dataset that contains 27 attributes and 270 columns. 
+
+![Picture6](https://user-images.githubusercontent.com/49813115/205524683-ce043a4d-c155-4c34-88c6-271bd598c35b.png)
+
+
+![Picture5](https://user-images.githubusercontent.com/49813115/205524684-142f07ae-dccf-4b9d-b912-15ef51eeb641.png)
+
+<b>Player Dataset:</b>
+
+The approach for creating the dataset for the players is the same as the approach for creating the dataset for the teams. We write a function that accepts the year, teamid, and key as parameters and returns a dictionary of values containing the required attributes. We call the function four times to get four datasets and merge them; this prevents data loss and allows us to keep track of API calls. This dataset contains 5605 rows and 20 columns. 
+
+![Picture7](https://user-images.githubusercontent.com/49813115/205524732-b5d16803-b52a-480d-be28-bdbaeb703915.png)
+
+# Challeneges faced by the team and the API limitations
+
+- Since sport radar only allows 1000 API calls per month, we decided to use multiple keys for different processes in the dataset creation. To avoid data loss, we ran functions year by year and saved the data before merging it.
+-	We were unable to collect financial data for teams due to limited online resources and a lack of APIs. Web scraping was also discovered to be challenging.
+-	Since the keys in the wins and team stats datasets did not match, we sorted both datasets by year and team name instead. Now, both datasets contained the same corresponding team name and year in the same indexes, we could simply concatenate them to form a single dataset.
+- Running the function for each year and each teamid was difficult, therefore we extracted a list of teamids and years and passed these values as parameters using a for loop, which decreased run time and improved code efficiency.
+
+# Expansion on this project
+
+-We plan to incorporate team financial data , financial data should include team valuation, yearly revenue, yearly expenditure, brand value, stadium value and maintenance cost, and player and staff salaries. 
+-Source Information on the player's age, injury history, and fitness levels and add that to player dataset
+-Data on the mental health, social life, and overall behavior of the players 
+
+
+
+
+
+
 
 
