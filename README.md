@@ -30,9 +30,9 @@ To obtain the key to access the data via the API, we create an application at sp
 
 Then we write a function that takes the year, teamid, and key as parameters and returns a dictionary of data with all of the desirable attributes. The URL allows you to change the year, teamid, and key. As a result, we can easily obtain data for all 30 NBA teams from 2013 to 2021. To reduce run time and potential data loss, we create four separate datasets and then merge them into one. Some of the attributes are self-explanatory, but we will define some to make the data easier to understand.
 
-<b>Position:</b> Basketball is a team sport with five players assigned to positions. From a strategic standpoint, these players have traditionally been assigned to positions defined by the role they play on the court. Guard, forward, and center are the three main positions, with a standard team consisting of two guards, two forwards, and a center. As more specialized roles emerged, the guards and forwards became differentiated, and today each of the five positions is known by a unique name, as well as a number: point guard (PG) or 1, shooting guard (SG) or 2, small forward (SF) or 3, power forward (PF) , Forward (F) or 4, and center (C) or 5.
+- <b>Position:</b> Basketball is a team sport with five players assigned to positions. From a strategic standpoint, these players have traditionally been assigned to positions defined by the role they play on the court. Guard, forward, and center are the three main positions, with a standard team consisting of two guards, two forwards, and a center. As more specialized roles emerged, the guards and forwards became differentiated, and today each of the five positions is known by a unique name, as well as a number: point guard (PG) or 1, shooting guard (SG) or 2, small forward (SF) or 3, power forward (PF) , Forward (F) or 4, and center (C) or 5.
 
-<b>Turn Over:</b>
+- <b>Turn Over:</b>
 A turnover occurs when a team loses possession of the ball to the opposing team before a player takes a shot at their team's basket.
 
 <b>Turn Over Ratio:</b>
