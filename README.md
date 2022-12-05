@@ -77,5 +77,11 @@ A steal occurs when a defensive player legally causes a turnover by their positi
   <b>Blocked attempts:</b>
 For the shooter, a blocked shot is counted as a missed field goal attempt. Also, on a shooting foul, a blocked shot cannot be awarded or counted, even if the player who deflected the field goal attempt is different from the player who committed the foul.
 
+<img width="473" alt="Picture2" src="https://user-images.githubusercontent.com/49813115/205524472-71665bc2-3c16-44ee-8113-b0b8180d619a.png">
+
+The data for team wins and losses is stored in another branch and thus cannot be retrieved using the same function and URL. As a result, it is best to write a new script to retrieve data for all of the teams. 
+We repeat the process, creating a function that takes year, teamid, and key as parameters and manipulates the URL for each iteration of the year and teamid, resulting in eight datasets, one for each year. Finally, the datasets are merged.
+
+
 
 
