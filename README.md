@@ -2,17 +2,17 @@
 
 # NBA Players and Teams Stats through 2013-2021
 
-<b> Team Members </b>
+# Team Members 
   - Vishnu Ram Murali
   - Mohammed Shehaf Aakil Sharfudeen
   - Varun Sharma
   - Sukhmani Kaur Mangat
   - Abhishek Patil
 
-<b> API used </b>
+# API used 
 - Sport Radar API
 
-<b> Files and Documents </b>
+# Files and Documents
 1.	player_stats_data-2.ipynb – Python file that acquires data for player statistics from 2013 to 2021
 2.	team_stats_final_data-2.ipynb – Python file that cleans, formats and merges team_wins_by_year.csv and team_yearly_stats_final.csv
 3.	project_1-3.ipynb – Python file that acquires data for team statistics from year 2013 to 2021
@@ -22,7 +22,7 @@
 7.	team_yearly_stats_final.csv – Dataset that contains all NBA teams statistics from 2013 to 2021
 8.	Yearly_NBA_Team_Stats_Data1.csv – Final merged dataset of team_yearly_stats_final.csv and team_wins_by_year.csv
 
-<b> How the dataset was created </b>
+# How the dataset was created
 
 To obtain the key to access the data via the API, we create an application at sport radar. After generating the key, we request data from sport radar through the API. Because the raw data is nested in a dictionary and has multiple branches, we must carefully read the documentation to extract the correct set of data.
 
@@ -74,7 +74,7 @@ The second most common type of scoring in basketball is the 3-point basket. This
 <b>Steal:</b>
 A steal occurs when a defensive player legally causes a turnover by their positive, aggressive action(s). This can be done by deflecting and controlling, or by catching the opponent's pass or dribble of an offensive player. The defender must not touch the offensive player's hands or otherwise a foul is called.
 
-  <b>Blocked attempts:</b>
+<b>Blocked attempts:</b>
 For the shooter, a blocked shot is counted as a missed field goal attempt. Also, on a shooting foul, a blocked shot cannot be awarded or counted, even if the player who deflected the field goal attempt is different from the player who committed the foul.
 
 <img width="473" alt="Picture2" src="https://user-images.githubusercontent.com/49813115/205524472-71665bc2-3c16-44ee-8113-b0b8180d619a.png">
@@ -88,7 +88,7 @@ We repeat the process, creating a function that takes year, teamid, and key as p
 <img width="403" alt="Picture4" src="https://user-images.githubusercontent.com/49813115/205524586-f28639ff-4219-42bc-9c3e-4757a72a367b.png">
 
 
-<b>Final Teams Dataset:</b>
+# Final Teams Dataset
 
 Our next task is to format and clean the dataset before merging the teams_wins_by_year.csv and team_yearly_stats_final.csv files. We checked to see if the team names matched in both datasets; only LA Clippers did not match because the dataset stored it as Los Angeles Clippers prior to 2017, so we renamed rows where it did not match.
 
@@ -101,7 +101,7 @@ Finally, we merge both the datasets to form final dataset that contains 27 attri
 
 ![Picture5](https://user-images.githubusercontent.com/49813115/205524684-142f07ae-dccf-4b9d-b912-15ef51eeb641.png)
 
-<b>Player Dataset:</b>
+# Player Dataset
 
 The approach for creating the dataset for the players is the same as the approach for creating the dataset for the teams. We write a function that accepts the year, teamid, and key as parameters and returns a dictionary of values containing the required attributes. We call the function four times to get four datasets and merge them; this prevents data loss and allows us to keep track of API calls. This dataset contains 5605 rows and 20 columns. 
 
@@ -116,9 +116,9 @@ The approach for creating the dataset for the players is the same as the approac
 
 # Expansion on this project
 
--We plan to incorporate team financial data , financial data should include team valuation, yearly revenue, yearly expenditure, brand value, stadium value and maintenance cost, and player and staff salaries. 
--Source Information on the player's age, injury history, and fitness levels and add that to player dataset
--Data on the mental health, social life, and overall behavior of the players 
+- We plan to incorporate team financial data , financial data should include team valuation, yearly revenue, yearly expenditure, brand value, stadium value and maintenance cost, and player and staff salaries. 
+- Source Information on the player's age, injury history, and fitness levels and add that to player dataset
+- Data on the mental health, social life, and overall behavior of the players 
 
 
 
