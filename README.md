@@ -59,9 +59,6 @@ Points in basketball are used to keep track of the score in a game. Points can b
 - <b>Second chance points:</b>
 A second chance point in basketball is when a team scores off a missed basket from their own player. Being able to score from a miss on the first attempt.
 
-- <b>Points Against:</b>
-PA stands for Points Against. It is determined by adding up the total amount of points that were scored by your opponents each week.
-
 - <b>Rebound:</b>
 A rebound, sometimes colloquially referred to as a board is a statistic awarded to a player who retrieves the ball after a missed field goal or free throw.
 
